@@ -1,8 +1,9 @@
 /** @format */
 
 .box-model {
-  background: pink;
+  background: black;
   color: yellow;
   margin: 5rem;
   padding: 4rem;
+  border-radius: 20%;
 }
